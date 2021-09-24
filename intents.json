@@ -1,0 +1,169 @@
+{
+    "intents": [
+      {
+        "tag": "projects",
+        "patterns": [
+            "What projects have you completed?",
+            "Have you done any programming projects?",
+            "Can I see some of your work?",
+            "Are there any coding projects I can look at?",
+            "What have you built?",
+            "What have you coded before?",
+            "What code have you written in your spare time?",
+            "Does you have a Github account?",
+            "Where can I view some of your work?",
+            "What projects have you done?",
+            "Is there any work you can show me?"
+        ],
+        "responses": [
+            "I have built an array of data science and programming projects. You can view some of my work in the 'Projects' section or visit my Github at https://github.com/oliverdenton"
+        ]
+      },
+      {
+        "tag": "experience",
+        "patterns": [
+            "Where have you worked before?",
+            "Do you have any work experience?",
+            "What positions have you held in the past?",
+            "Where do you currently work?",
+            "Who have you worked for?",
+            "Who do you work for?",
+            "Are you at university?",
+            "What are you studying?",
+            "Where did you go to school?",
+            "What is your education?",
+            "Do you have a degree?",
+            "Where have you studied?",
+            "What do you study?",
+            "What do you do for a living?",
+            "Do you have a job?"
+        ],
+        "responses": [
+            "I interned at DSTL in the A.I. research team as a data scientist this summer. I am currently in third year studying artificial intelligence and computer science at the University of Sheffield where I am a lab demonstrator for three modules, and completing a dissertation in deep leanrning and computational neuroscience. I have also written a few articles for a publication called Data Driven Investor which you can view in the 'Writings' section."
+        ]
+      },
+      {
+        "tag": "contact",
+        "patterns": [
+            "How can I talk to you?",
+            "Can I message you somewhere?",
+            "What is your phone number?",
+            "Where can I contact you?",
+            "What is your email address?",
+            "How can I get in touch with you?",
+            "Does he have a LinkedIn account?",
+            "Can I contact you?",
+            "Can I connect with you on LinkedIn?",
+            "Where can I discuss opportunties with you?",
+            "Can I hire you?",
+            "I would like to offer you a job"
+        ],
+        "responses": [
+            "My email address is ojdenton1@sheffield.ac.uk or connect with me on LinkedIn at https://www.linkedin.com/in/oliver-denton1/ where I am always happy to discuss opportunities and new ideas!"
+        ]
+      },
+      {
+        "tag": "skills",
+        "patterns": [
+            "What programming languages do you know?",
+            "Can you build deep learning models?",
+            "Are you good at Python?",
+            "What coding skills do you have?",
+            "Do you know Java?",
+            "Can you code in Python?",
+            "Do you know JavaScript ES6?",
+            "Can you use SQL?",
+            "Do you know React?",
+            "Can you use PyTorch?",
+            "Have you used Tensorflow?",
+            "Do you know how to do deep learning?",
+            "Are you a full stack developer?",
+            "Can you make websites?",
+            "Can you do deep learning?",
+            "Which programming languages have you used?",
+            "Can you do front-end?",
+            "Have you done any deep learning?",
+            "Can you do machine machine learning?",
+            "Do you know CSS?",
+            "Have you used Boostrap?",
+            "Can you code in Haskell?",
+            "Can you build databses?",
+            "Do you know angular?",
+            "Have you used vue?",
+            "What frameworks do you know how to use?",
+            "Do you know node.js?",
+            "Can you use express?",
+            "Do you know Flask?",
+            "Do you do AI?",
+            "Do you know about artificial intelliegence?",
+            "Have you used Ruby?",
+            "Do you know Ruby on Rails?"
+        ],
+        "responses": [
+            "I have used a variety of languages and frameworks incluiding Java, Python, PyTorch, JavaScript, React, Haskell, CSS, Bootstrap, Ruby and more. See 'Skills' and 'Projects' sections for more information."
+        ]
+      },
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you?",
+          "Is anyone there?",
+          "Hello",
+          "Good day",
+          "Good morning"
+        ],
+        "responses": [
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye", 
+            "See you later", 
+            "Goodbye"
+        ],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Let me know if you need anything else.",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+            "Thanks", 
+            "Thank you", 
+            "That's helpful", 
+            "Thank's a lot!"
+        ],
+        "responses": [
+            "Happy to help!", 
+            "Any time!", 
+            "My pleasure"
+        ]
+      },
+      {
+          "tag": "funny",
+          "patterns": [
+              "Tell me a joke",
+              "Say something funny",
+              "Do you know any jokes?"
+          ],
+          "responses": [
+              "There are 10 types of programmers. Those who understand binary, and those that don't",
+              "Why do java developers wear glasses? Because they cannot C#.",
+              "Why did the programmer quit his job? Because he didn't get arrays.",
+              "What's the object-oriented way to become wealthy? Inheritence.",
+              "A machine learning algorithm walks into a bar. The bartender asks, \"What'll you have?\" The algorithm says, \"What's everyone else having?\"",
+              "A SQL query walks into a bar, walks up to two tables, and asks, \"Can I join you?\"",
+              "I have a machine learning joke, but it's not performing well on a new audience."
+          ]
+      }
+    ]
+}

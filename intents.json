@@ -153,7 +153,8 @@
           "patterns": [
               "Tell me a joke",
               "Say something funny",
-              "Do you know any jokes?"
+              "Do you know any jokes?",
+              "Make me laugh"
           ],
           "responses": [
               "There are 10 types of programmers. Those who understand binary, and those that don't",

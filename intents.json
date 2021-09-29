@@ -28,18 +28,33 @@
             "Where do you currently work?",
             "Who have you worked for?",
             "Who do you work for?",
-            "Are you at university?",
-            "What are you studying?",
-            "Where did you go to school?",
-            "What is your education?",
-            "Do you have a degree?",
-            "Where have you studied?",
             "What do you study?",
             "What do you do for a living?",
-            "Do you have a job?"
+            "Do you have a job?",
+            "Have you done a summer placement?",
+            "Did you do an industrial placement?",
+            "Have you done an internship?"
         ],
         "responses": [
-            "I interned at DSTL in the A.I. research team as a data scientist this summer. I am currently in third year studying artificial intelligence and computer science at the University of Sheffield where I am a lab demonstrator for three modules, and completing a dissertation in deep leanrning and computational neuroscience. I have also written a few articles for a publication called Data Driven Investor which you can view in the 'Writings' section."
+            "I interned at DSTL (part of the Ministry of Defence) in the A.I. research team as a data scientist this summer. I also support three undergeaduate modules as a lab demonstrator at my university. I am a keen writer and so I have written a few articles for a publication called Data Driven Investor which you can view in the 'Writings' section. Please see my CV for more information."
+        ]
+      },
+      {
+        "tag": "education",
+        "patterns": [
+          "Where have you studied?",
+          "Are you at university?",
+          "What are you studying?",
+          "Where did you go to school?",
+          "What is your education?",
+          "Do you have a degree?",
+          "What have you learned at university?",
+          "What was your dissertation about?",
+          "Have you done a masters degree?"
+        ],
+        "responses": [
+          "I am currently in third year studying artificial intelligence and computer science at the University of Sheffield where I am completing a dissertation in deep leanrning and computational neuroscience. I am also a lab demonstrator supporting three modules. You can view other courses I have completed and modules studied in the 'Education' section."
+
         ]
       },
       {

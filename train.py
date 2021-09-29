@@ -14,8 +14,8 @@ NUM_EPOCHS = 1000
 BATCH_SIZE = 16
 LEARNING_RATE = 3e-4
 HIDDEN = 500
-INPUT = 137             #no. of patterns
-OUTPUT = 8              #no. of classes
+INPUT = 145             #no. of patterns
+OUTPUT = 9              #no. of classes
 
 # Initialize model
 net = ChatbotClassifier(INPUT, HIDDEN, OUTPUT)
